@@ -1,0 +1,42 @@
+[
+    {
+        "title": "The human eye weighs approximately",
+        "answer_1": "34 grams",
+        "answer_2": "4 grams",
+        "answer_3": "28 grams",
+        "answer_4": "None of the above",
+        "right_answer": "28 grams"
+    },
+    {
+        "title": "What is the only living tissue with in the human body that does not contain blood vessels?",
+        "answer_1": "The ear",
+        "answer_2": "The finger nail",
+        "answer_3": "Human hair",
+        "answer_4": "The cornea",
+        "right_answer": "The cornea"
+    },
+    {
+        "title": "How many approximate miles of capillaries does the human body have?",
+        "answer_1": "37",
+        "answer_2": "37,000",
+        "answer_3": "21 million",
+        "answer_4": "100",
+        "right_answer": "37,000"
+    },
+    {
+        "title": "How many pounds of oxygen does the adult human body require daily?",
+        "answer_1": "88 pounds",
+        "answer_2": "14 pounds",
+        "answer_3": "44 pounds",
+        "answer_4": "34 pounds",
+        "right_answer": "88 pounds"
+    },
+    {
+        "title": "Your brain is...",
+        "answer_1": "7% Water",
+        "answer_2": "89% Water",
+        "answer_3": "25% Water",
+        "answer_4": "80% Water",
+        "right_answer": "80% Water"
+    }
+]
